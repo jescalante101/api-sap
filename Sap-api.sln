@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sap-api", "Sap-api\Sap-api.csproj", "{512D9986-541B-4435-8206-D49B41372790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{A768829D-3DB2-4A7E-8F47-08CA0B71FB73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dtos", "Dtos\Dtos.csproj", "{6AEF63DF-7906-4CB6-B45D-7D0F71AA9926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512D9986-541B-4435-8206-D49B41372790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512D9986-541B-4435-8206-D49B41372790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512D9986-541B-4435-8206-D49B41372790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512D9986-541B-4435-8206-D49B41372790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A768829D-3DB2-4A7E-8F47-08CA0B71FB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A768829D-3DB2-4A7E-8F47-08CA0B71FB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A768829D-3DB2-4A7E-8F47-08CA0B71FB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A768829D-3DB2-4A7E-8F47-08CA0B71FB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEF63DF-7906-4CB6-B45D-7D0F71AA9926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEF63DF-7906-4CB6-B45D-7D0F71AA9926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEF63DF-7906-4CB6-B45D-7D0F71AA9926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEF63DF-7906-4CB6-B45D-7D0F71AA9926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEE5349-586F-44F1-8773-EADCEC2C5E33}
+	EndGlobalSection
+EndGlobal

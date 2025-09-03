@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RholLhwEMBA36Wo4sCs2B5hTPOSjEhtYnz2YlBfAaVA=",
+  "Source": "Sap-api",
+  "BasePath": "_content/Sap-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

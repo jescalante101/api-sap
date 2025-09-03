@@ -1,0 +1,11 @@
+C:\AppBackend\Sap-api\Dtos\bin\Release\net8.0\Dtos.deps.json
+C:\AppBackend\Sap-api\Dtos\bin\Release\net8.0\Dtos.dll
+C:\AppBackend\Sap-api\Dtos\bin\Release\net8.0\Dtos.pdb
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\Dtos.AssemblyInfoInputs.cache
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\Dtos.AssemblyInfo.cs
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\Dtos.csproj.CoreCompileInputs.cache
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\Dtos.dll
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\refint\Dtos.dll
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\Dtos.pdb
+C:\AppBackend\Sap-api\Dtos\obj\Release\net8.0\ref\Dtos.dll

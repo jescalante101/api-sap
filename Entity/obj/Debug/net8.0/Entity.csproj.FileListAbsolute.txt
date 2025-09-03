@@ -1,0 +1,12 @@
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\AppBackend\Sap-api\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\AppBackend\Sap-api\Entity\bin\Debug\net8.0\Entity.dll
+C:\AppBackend\Sap-api\Entity\bin\Debug\net8.0\Entity.pdb
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.dll
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\Entity.pdb
+C:\AppBackend\Sap-api\Entity\obj\Debug\net8.0\ref\Entity.dll
