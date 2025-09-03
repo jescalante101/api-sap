@@ -81,7 +81,7 @@ La aplicación se conecta a la base de datos SAP Business One configurada en `ap
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=192.168.1.6;Database=SBO_FIBRAFIL;User Id=jescalante;Password=Fibra76095492;TrustServerCertificate=True;Encrypt=False;"
+    "DefaultConnection": "Server=SERVER_IP;Database=DATABASE_NAME;User Id=USER;Password=PASSWORD;TrustServerCertificate=True;Encrypt=False;"
   }
 }
 ```
